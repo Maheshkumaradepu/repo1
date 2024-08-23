@@ -1,6 +1,4 @@
 package com.abstarction;
-
-
 abstract class forest{
 	public abstract void king();
 }
